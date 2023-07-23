@@ -6,7 +6,7 @@ publish = "public/"
 HUGO_ENABLEGITINFO = "true"
 HUGO_ENV = "production"
 HUGO_VERSION = "0.92.0"
-NODE_VERSION = "v12.19.0"
+NODE_VERSION = "v20.5.0"
 
 [context.split1]
 command = "hugo --gc --enableGitInfo"
