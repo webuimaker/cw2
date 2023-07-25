@@ -1,14 +1,4 @@
 <!-- Widget Section -->
-<section class="mt-8 mx-auto flex flex-wrap">
-   
-	<div class="mx-auto p-2 sm:p-8   md:w-3/4">
-		<div>
-			{{ partial "widgets/widget1.html" . }}
-		</div>
-    
-  </div>
-  <div
-		class="my-6 p-4 mx-auto max-w-3/4 sm:max-w-2/3 lg:max-w-1/2 lg:relative xl:-right-16  relative">
-		{{ partial "widgets/widget2.html" . }}
-	</div>
+<section class="mt-8 mb-8 mx-auto flex flex-wrap">
+	{{ .Content | safeHTML }}
 </section>

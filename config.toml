@@ -45,33 +45,7 @@ icon = "/icons/linkedin.svg"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/christopher-wingard/"
 
-# [[params.social]]
-# alt = "medium icon"
-# blank = true
-# icon = "/icons/medium.svg"
-# name = "medium"
-# url = "https://medium.com/"
 
-# [[params.social]]
-# alt = "stack-overflow icon"
-# blank = true
-# icon = "/icons/stack-overflow.svg"
-# name = "stack-overflow"
-# url = "https://stackoverflow.com/"
-
-# [[params.social]]
-# alt = "twitter icon"
-# blank = true
-# icon = "/icons/twitter.svg"
-# name = "twitter"
-# url = "https://twitter.com/"
-
-# [[params.social]]
-# alt = "facebook icon"
-# blank = true
-# icon = "/icons/facebook.svg"
-# name = "facebook"
-# url = "https://facebook.com/"
 
 # Navigation bar
 [menu]
@@ -83,7 +57,7 @@ url = "/"
 weight = 10 
 
 [[menu.main]]
-identifier = "blog" # identifier is use for translations
+identifier = "writing" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/blog/" 
 weight = 20 
@@ -91,7 +65,7 @@ weight = 20
 [[menu.main]]
 identifier = "contact" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact" 
+url = "/contact" 
 weight = 30 
 
 
@@ -150,3 +124,4 @@ weight = 2
 # languageCode = 'de'
 # languageName = 'Deutsch'
 # weight = 5
+

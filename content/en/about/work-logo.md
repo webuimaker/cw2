@@ -10,7 +10,7 @@ title = "widget 1"
 
 [[logo]]
   title = "nsf"
-  imgPath = "/img/nsf.png"
+  imgPath = "/img/nsf.jpeg"
 
 [[logo]]
   title = "questrom"
@@ -20,26 +20,32 @@ title = "widget 1"
   title = "tufts"
   imgPath = "/img/ma-state-senate.png"
 
+
+[[logo]]
+  title = "bu-law"
+  imgPath = "/img/eagle-scout.png"
+
+
+[[logo]]
+  title = "bu-law"
+  imgPath = "/img/haley-house.webp"
+
+
+
+
+[[logo]]
+  title = "bu-law"
+  imgPath = "/img/forest-foundation.jpeg"
+
+  
+
 [[logo]]
   title = "bu-law"
   imgPath = "/img/ma-ceo.png"
 
 [[logo]]
   title = "bu-law"
-  imgPath = "/img/haley-house.png"
-
-[[logo]]
-  title = "bu-law"
-  imgPath = "/img/gd.png"
-
-[[logo]]
-  title = "bu-law"
-  imgPath = "/img/forest-foundation.png"
-
-[[logo]]
-  title = "bu-law"
-  imgPath = "/img/eagle-scout.png"
-
+  imgPath = "/img/gd.jpeg"
 
 +++
 

@@ -9,16 +9,16 @@ weight = 35  # Order that this section will appear.
 title = "widget 1"
 
 [[logo]]
+  title = "tufts"
+  imgPath = "/img/tufts.png"
+
+[[logo]]
   title = "oxford"
-  imgPath = "/img/oxford.jpg"
+  imgPath = "/img/oxford.jpeg"
 
 [[logo]]
   title = "questrom"
   imgPath = "/img/questrom.png"
-
-[[logo]]
-  title = "tufts"
-  imgPath = "/img/tufts.png"
 
 [[logo]]
   title = "bu-law"
