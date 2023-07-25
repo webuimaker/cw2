@@ -11,7 +11,13 @@
 			{{ $class = printf "%s %s" $class "bg-accent text-secondary"}}
 			{{ end }}
 
-			{{ $btnAttrs := dict "class" $class "href" (.url | relLangURL)}}
+			
+
+			{{ $btnAttrs := dict "class" $class "href" (.url   )}}
+			
+			
+			
+
 			{{ $btnOpt := dict "el" "a" "content" .label "attrs" $btnAttrs}}
 			{{ partial "button" $btnOpt }}
 

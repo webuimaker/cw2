@@ -7,13 +7,14 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/landing.jpg"
+hero_media = "/img/contact.jpg"
 
 # Buttons
 # Add as much button as you want
 [[btn]]
 	# The url of the button
   url = "mailto:wingard.christopher@gmail.com"
+  urlRel= "false"
 	# The text of the button
   label = "Email Me"
 	# Primary color
