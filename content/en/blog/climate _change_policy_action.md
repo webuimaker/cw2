@@ -8,7 +8,7 @@ date = 2023-07-24
 description = "Since there is such scientific uncertainty about global warming, it is unreasonable to take any drastic policy steps. Do you agree?"
 
 # Comment next line and the default banner wil be used.
-banner = 'img/blog.jpg'
+banner = '/img/blog.jpg'
 
 +++
 

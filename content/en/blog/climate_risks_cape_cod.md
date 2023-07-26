@@ -8,7 +8,7 @@ date = 2023-07-24
 description = "How State, County, and Local Governments Respond to a Crisis"
 
 # Comment next line and the default banner wil be used.
-banner = 'img/blog.jpg'
+banner = '/img/blog.jpg'
 
 +++
 
